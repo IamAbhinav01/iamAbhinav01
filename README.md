@@ -90,10 +90,7 @@
 <div align="center">
   <b>Let's connect and build something amazing!</b>
   <br/>
-  <a href="https://www.linkedin.com/in/abhinav-sunil-mlai/">
+  <a href="https://www.linkedin.com/in/abhinav-sunil-870184279/">
     <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Sunil-00D4FF?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhinavsunilmlai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhinavsunilmlai@gmail.com-00D4FF?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
