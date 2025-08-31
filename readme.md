@@ -63,7 +63,6 @@
   <img src="https://raw.githubusercontent.com/IamAbhinav01/IamAbhinav01/output/snake.svg" alt="snake animation" />
 </p>
 
-
 ---
 
 ##  Let's Connect  
