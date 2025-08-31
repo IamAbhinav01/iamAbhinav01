@@ -58,13 +58,11 @@
 
 ---
 
-##  Contribution Snake Animation  
-
+## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github.com/IamAbhinav01/IamAbhinav01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/IamAbhinav01/IamAbhinav01/output/snake.svg" alt="snake animation" />
 </p>
 
-*(Ensure you set up the GitHub Action for daily snake updates)*
 
 ---
 
