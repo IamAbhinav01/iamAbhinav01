@@ -1,73 +1,78 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Abhinav%20Sunil&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+<!-- Legendary GitHub Profile README for Abhinav Sunil -->
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+Scientist;Full+Stack+Developer;Machine+Learning+%7C+Deep+Learning;Building+VoiceVerse+AI+%26+LexAI;Loves+Coding+%26+Innovation" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abhinav+Sunil+👋;AI+Scientist+%7C+Innovator+%7C+Engineer;Building+Next-Gen+AI+Assistants+🤖;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+RAG;Welcome+to+my+Legendary+Profile!" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🚀 About Me  
-💡 Passionate about **AI, ML, DL, and cool tech projects**  
-⚡ Currently building **VoiceVerse AI & LexAI**  
-🎯 Always learning and innovating  
-🌍 Exploring the intersection of **AI x Law x Automation**  
+## 🌌 About Me  
+✨ AI Scientist (Graduating 2027) passionate about building **cutting-edge AI assistants** like **LexAI**, **VoiceVerse**, and **NyayaBot**.  
+💡 Exploring **Machine Learning, Deep Learning, Generative AI, and Real-Time Voice Assistants**.  
+🚀 Always hacking, experimenting, and creating things that **push boundaries**.  
+
+📩 **Reach me at:** [abhinavsunil@hotmail.com](mailto:abhinavsunil@hotmail.com)  
+🔗 **Connect on LinkedIn:** [linkedin.com/in/abhinav-sunil-870184279](https://www.linkedin.com/in/abhinav-sunil-870184279/)  
 
 ---
 
-### 🛠️ Tech Stack  
+## ⚡ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,fastapi,tailwind,postgresql,mysql,mongodb,git,linux,docker,aws,azure" />
-</p>
+<div align="center">
 
----
+### 🚀 Languages & Core
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 GitHub Analytics  
+### 🧠 AI & ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=googletagmanager&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinavsunil&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsunil&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### 🌐 Dev & Tools
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<!-- Dynamic Graph with Peaks -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsunil&theme=react-dark&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements & Badges  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavsunil&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</div>
 
 ---
 
-### 🎬 Fun Animations  
+## 🎶 Featured Projects  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"/>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400px"/>
-</p>
-
----
-
-### 📫 Connect With Me  
-
-<p align="center">
-  <a href="mailto:abhinavsunil@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abhinavsunil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abhinavsunil"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+🔹 **LexAI** – AI Legal Assistant with RAG + Whisper ASR + Coqui TTS  
+🔹 **VoiceVerse AI** – Next-gen music + voice generator  
+🔹 **NyayaBot** – Legal Chatbot for real-time transcription & assistance  
+🔹 **Mini-MAX** – A VSCode coding AI assistant like Copilot (work-in-progress 🚀)  
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
+## 📈 GitHub Stats  
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhinavsunil&theme=radical&hide_border=true&border_radius=15" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavsunil&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsunil&theme=react-dark&hide_border=true&bg_color=0D1117&line=00F5FF&point=FFFFFF&area=true&hide_title=false" height="250"/>
+
+</div>
+
+---
+
+## 🎇 Fun Zone  
+
+<div align="center">
+
+![Snake animation](https://github.com/abhinavsunil/abhinavsunil/blob/output/github-contribution-grid-snake.svg)
+
+🔥 *“Code is my brush, AI is my canvas, and innovation is my masterpiece.”* 🔥  
+
+</div>
+
+---
