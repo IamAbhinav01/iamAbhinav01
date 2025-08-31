@@ -1,29 +1,32 @@
-name: Generate Snake Animation
+name: Generate Snake Game
 
 on:
-  schedule: # Runs every 12 hours
+  schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allow manual run
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: IamAbhinav01
+          github_user_name: iamAbhinav01
           outputs: dist/snake.svg
 
-      - name: Push snake to the output branch
+      - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
