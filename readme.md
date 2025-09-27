@@ -15,6 +15,7 @@
 
 ##  Featured Projects  
 **Pinned showcases from GitHub:**
+- **MedSageAI** – A DEEP LEARNING + AI POWERED MEDICAL WEBPAGE where uploading a medical image and get a analysis on it and ai powered chatbot doctor . 
 - **Derick** – An offline, VS Code AI coding assistant (local LLMs)  
 - **LexAI Justice** – Voice AI for Indian law navigation  
 - **GenAI** – Compact GenAI toolkit for NLP tasks  
