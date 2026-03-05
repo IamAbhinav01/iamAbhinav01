@@ -38,7 +38,7 @@
 
 <br/>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsajNxbmNjeTlidWM5MDZjemx1cWR0MDQ2MHdleTNjNmJjYjg5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsajNxbmNjeTlidWM5MDZjemx1cWR0MDQ2MHdleTNjNmJjYjg5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width=28px/>
 
 ```python
 class AbhinavSunil:
