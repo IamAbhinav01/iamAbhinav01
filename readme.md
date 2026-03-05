@@ -166,9 +166,9 @@ class AbhinavSunil:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamAbhinav01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0014&title_color=A855F7&icon_color=C084FC&text_color=E2D9F3&ring_color=A855F7" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IamAbhinav01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0014&title_color=A855F7&icon_color=C084FC&text_color=E2D9F3&ring_color=A855F7" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAbhinav01&layout=compact&theme=radical&hide_border=true&bg_color=0d0014&title_color=A855F7&text_color=E2D9F3" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IamAbhinav01&layout=compact&theme=radical&hide_border=true&bg_color=0d0014&title_color=A855F7&text_color=E2D9F3" />
 
 </div>
 
@@ -200,15 +200,21 @@ class AbhinavSunil:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IamAbhinav01&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://img.shields.io/badge/80%2B_Public_Repos-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NPTEL-ML_Certified-E879F9?style=for-the-badge&logo=google&logoColor=white&labelColor=0d0014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-Builder-C084FC?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Voice_AI-Engineer-9333EA?style=for-the-badge&logo=amazonalexa&logoColor=white&labelColor=0d0014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG_Systems-Architect-7C3AED?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0d0014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLM-Developer-A855F7?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d0014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_Source-Contributor-E879F9?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0014"/>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<br/>
 
 ## 🐍 Contribution Serpentine Protocol
 
