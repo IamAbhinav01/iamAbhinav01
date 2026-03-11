@@ -237,11 +237,11 @@ class AbhinavSunil:
 <br/>
 
 <div align="center">
-
+/*
 <a href="mailto:abhinavsunil@hotmail.com">
   <img src="https://img.shields.io/badge/📧_Email-abhinavsunil%40hotmail.com-A855F7?style=for-the-badge&logoColor=white&labelColor=0d0014" />
 </a>
-
+*/
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/abhinav-sunil-870184279/">
