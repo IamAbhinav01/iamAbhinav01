@@ -33,7 +33,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
+<br/>
 
+<div align="center">
+
+<a href="https://iamabhinav.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0014" height="60"/>
+</a>
+
+<br/><br/>
+
+<b>⚡ Live AI Projects • Autonomous Systems • Real-World Deployments</b>
+
+</div>
+
+<br/>
 ## 🧬 System Profile
 
 <br/>
