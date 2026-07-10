@@ -129,6 +129,7 @@ class AbhinavSunil:
 
 **🐍 Languages**
 
+![Go](https://img.shields.io/badge/Go-b8ff35?style=flat-square&logo=go&logoColor=111111)
 ![Python](https://img.shields.io/badge/Python-b8ff35?style=flat-square&logo=python&logoColor=111111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8ff35?style=flat-square&logo=typescript&logoColor=111111)
 ![JavaScript](https://img.shields.io/badge/JavaScript-d4ff6b?style=flat-square&logo=javascript&logoColor=111111)
