@@ -33,7 +33,11 @@
 <!-- ░░░░░░░░░░  01 — SYSTEM PROFILE  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:7C3AED&height=56&text=%2001%20%E2%80%94%20SYSTEM%20PROFILE&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_01_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_01_light.svg">
+    <img alt="Header 01" src="./header_01_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -53,7 +57,11 @@
 <!-- ░░░░░░░░░░  02 — TECH ARSENAL  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:10B981&height=56&text=%2002%20%E2%80%94%20TECH%20ARSENAL&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_02_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_02_light.svg">
+    <img alt="Header 02" src="./header_02_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -73,7 +81,11 @@
 <!-- ░░░░░░░░░░  03 — FEATURED PROJECTS  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:10B981&height=56&text=%2003%20%E2%80%94%20FEATURED%20PROJECTS&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_03_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_03_light.svg">
+    <img alt="Header 03" src="./header_03_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -141,7 +153,11 @@
 <!-- ░░░░░░░░░░  04 — NEURAL ACTIVITY METRICS  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=56&text=%2004%20%E2%80%94%20NEURAL%20ACTIVITY%20METRICS&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_04_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_04_light.svg">
+    <img alt="Header 04" src="./header_04_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -162,9 +178,6 @@
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAbhinav01&bg_color=111111&color=fdfaf4&line=22D3EE&point=7C3AED&area=true&area_color=0f172a&hide_border=true&custom_title=⚡ Contribution Activity Map" width="100%"/>
-</div>
 
 <br/>
 
@@ -173,14 +186,16 @@
 <!-- ░░░░░░░░░░  05 — ACHIEVEMENT NODES  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=56&text=%2005%20%E2%80%94%20ACHIEVEMENT%20NODES&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_05_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_05_light.svg">
+    <img alt="Header 05" src="./header_05_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IamAbhinav01&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 
 <br/><br/>
 
@@ -216,7 +231,11 @@
 <!-- ░░░░░░░░░░  06 — EXPERIENCE & EDUCATION  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:22D3EE&height=56&text=%2006%20%E2%80%94%20EXPERIENCE%20%26%20EDUCATION&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_06_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_06_light.svg">
+    <img alt="Header 06" src="./header_06_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -236,7 +255,11 @@
 <!-- ░░░░░░░░░░  07 — CONTRIBUTION SERPENTINE  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:22D3EE&height=56&text=%2007%20%E2%80%94%20CONTRIBUTION%20SERPENTINE&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_07_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_07_light.svg">
+    <img alt="Header 07" src="./header_07_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -252,7 +275,11 @@
 <!-- ░░░░░░░░░░  08 — ESTABLISH CONNECTION  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=56&text=%2008%20%E2%80%94%20ESTABLISH%20CONNECTION&fontSize=22&fontColor=22D3EE&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header_08_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./header_08_light.svg">
+    <img alt="Header 08" src="./header_08_dark.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -272,9 +299,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60">
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br/>
 
