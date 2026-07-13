@@ -265,18 +265,18 @@
         <animate attributeName="opacity" values="0.02;0.16;0.02" dur="3.6s" repeatCount="indefinite"/>
       </rect></g>
 
-      <text x="50" y="256" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+      <text x="50" y="226" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
             font-size="15" fill="#94A3B8" opacity="0">
         Hi 👋
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.9s" fill="freeze"/>
       </text>
-      <text x="50" y="286" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+      <text x="50" y="256" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
             font-size="27" font-weight="700" fill="#F8FAFC" opacity="0">
         I'm Abhinav Sunil
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.1s" fill="freeze"/>
       </text>
 
-      <g transform="translate(50,296)">
+      <g transform="translate(50,266)">
       <g clip-path="url(#clipRole_0)">
         <text x="0" y="19" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
               font-size="19" fill="url(#accentGrad)" font-weight="600">Full-Stack Engineer</text>
@@ -306,7 +306,7 @@
                  dur="0.9s" repeatCount="indefinite"/>
       </rect></g>
 
-      <g transform="translate(50,334)">
+      <g transform="translate(50,306)">
       <g transform="translate(0,0)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.60s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" additive="sum"
@@ -320,7 +320,7 @@
       <g transform="translate(0,27)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.78s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" additive="sum"
-                           from="-14,27" to="0,27" dur="0.5s" begin="1.78s" fill="freeze"/>
+                           from="-14,0" to="0,0" dur="0.5s" begin="1.78s" fill="freeze"/>
         <circle cx="6" cy="-4" r="9" fill="url(#accentGrad)" opacity="0.16"/>
         <text x="6" y="-1" text-anchor="middle" font-size="10" fill="url(#accentGrad)"
               font-family="'SFMono-Regular',Consolas,monospace" font-weight="700">■</text>
@@ -330,7 +330,7 @@
       <g transform="translate(0,54)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.96s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" additive="sum"
-                           from="-14,54" to="0,54" dur="0.5s" begin="1.96s" fill="freeze"/>
+                           from="-14,0" to="0,0" dur="0.5s" begin="1.96s" fill="freeze"/>
         <circle cx="6" cy="-4" r="9" fill="url(#accentGrad)" opacity="0.16"/>
         <text x="6" y="-1" text-anchor="middle" font-size="10" fill="url(#accentGrad)"
               font-family="'SFMono-Regular',Consolas,monospace" font-weight="700">◆</text>
@@ -340,7 +340,7 @@
       <g transform="translate(0,81)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.14s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" additive="sum"
-                           from="-14,81" to="0,81" dur="0.5s" begin="2.14s" fill="freeze"/>
+                           from="-14,0" to="0,0" dur="0.5s" begin="2.14s" fill="freeze"/>
         <circle cx="6" cy="-4" r="9" fill="url(#accentGrad)" opacity="0.16"/>
         <text x="6" y="-1" text-anchor="middle" font-size="10" fill="url(#accentGrad)"
               font-family="'SFMono-Regular',Consolas,monospace" font-weight="700">●</text>
@@ -350,7 +350,7 @@
       <g transform="translate(0,108)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.32s" fill="freeze"/>
         <animateTransform attributeName="transform" type="translate" additive="sum"
-                           from="-14,108" to="0,108" dur="0.5s" begin="2.32s" fill="freeze"/>
+                           from="-14,0" to="0,0" dur="0.5s" begin="2.32s" fill="freeze"/>
         <circle cx="6" cy="-4" r="9" fill="url(#accentGrad)" opacity="0.16"/>
         <text x="6" y="-1" text-anchor="middle" font-size="10" fill="url(#accentGrad)"
               font-family="'SFMono-Regular',Consolas,monospace" font-weight="700">✉</text>
@@ -358,7 +358,7 @@
               font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">abhinavsunil@hotmail.com</text>
       </g></g>
       
-      <g transform="translate(50,495)">
+      <g transform="translate(50,446)">
             <g transform="translate(0,0)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.60s" fill="freeze"/>
         <rect x="0" y="0" width="73" height="26" rx="13" fill="#0B1220"
@@ -471,7 +471,7 @@
       </g>
       </g>
 
-      <g transform="translate(50,524)">
+      <g transform="translate(50,546)">
       <g transform="translate(0,0)" opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.60s" fill="freeze"/>
         <circle cx="18" cy="18" r="18" fill="#111827" stroke="url(#accentGrad)"
