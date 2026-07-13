@@ -1,39 +1,28 @@
 <!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║   ABHINAV SUNIL — Bioluminescent × Brutalist README  ║ -->
+<!-- ║        ABHINAV SUNIL — Premium Developer Profile       ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-```
- █████╗ ██████╗ ██╗  ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██║  ██║██║████╗  ██║██╔══██╗██║   ██║
-███████║██████╔╝███████║██║██╔██╗ ██║███████║██║   ██║
-██╔══██║██╔══██╗██╔══██║██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
-██║  ██║██████╔╝██║  ██║██║██║ ╚████║██║  ██║ ╚████╔╝
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
+<a href="https://github.com/IamAbhinav01">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Abhinav Sunil Developer Profile" src="./dark.svg" width="100%">
+  </picture>
+</a>
 
-███████╗██╗   ██╗███╗   ██╗██╗██╗
-██╔════╝██║   ██║████╗  ██║██║██║
-███████╗██║   ██║██╔██╗ ██║██║██║
-╚════██║██║   ██║██║╚██╗██║██║██║
-███████║╚██████╔╝██║ ╚████║██║███████╗
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chivo+Mono&weight=700&size=19&duration=2800&pause=900&color=B8FF35&center=true&vCenter=true&width=780&lines=Building+Distributed+Systems+%26+AI+Products+%E2%9A%A1;LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Node.js+%C2%B7+Docker;6+Microservices+in+Prod+%7C+LLM+Pipelines+%7C+AI+Judges;Turning+Ideas+%E2%86%92+Production-Grade+Infrastructure;Bioluminescent+ideas%2C+Brutalist+execution+%E2%9A%A1)](https://github.com/IamAbhinav01)
-
-<br/>
-
-![](https://img.shields.io/badge/%E2%9A%A1_ONLINE_%C2%B7_SHIPPING-b8ff35?style=for-the-badge&labelColor=111111)
+<br/><br/>
+![](https://img.shields.io/badge/%E2%9A%A1_ONLINE_%C2%B7_SHIPPING-22D3EE?style=for-the-badge&labelColor=111111)
 ![](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_INDIA-fdfaf4?style=for-the-badge&labelColor=111111)
-![](https://img.shields.io/badge/LPU_%C2%B7_B.Tech_CSE-ffe135?style=for-the-badge&labelColor=111111)
-![](https://img.shields.io/badge/ORACLE_GEN_AI_%E2%9C%85-00f5c4?style=for-the-badge&labelColor=111111)
-![](https://img.shields.io/badge/300%2B_LEETCODE-ff4d3d?style=for-the-badge&labelColor=111111)
-![](https://komarev.com/ghpvc/?username=IamAbhinav01&style=for-the-badge&color=b8ff35&labelColor=111111&label=PROFILE+VIEWS)
+![](https://img.shields.io/badge/LPU_%C2%B7_B.Tech_CSE-22D3EE?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/ORACLE_GEN_AI_%E2%9C%85-2563EB?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/300%2B_LEETCODE-7C3AED?style=for-the-badge&labelColor=111111)
+![](https://komarev.com/ghpvc/?username=IamAbhinav01&style=for-the-badge&color=22D3EE&labelColor=111111&label=PROFILE+VIEWS)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=36&text=%20%20Node.js%20%E2%9C%A6%20FastAPI%20%E2%9C%A6%20React%20%E2%9C%A6%20Docker%20%E2%9C%A6%20LangChain%20%E2%9C%A6%20PostgreSQL%20%E2%9C%A6%20Redis%20%E2%9C%A6%20RabbitMQ%20%E2%9C%A6%20BullMQ%20%E2%9C%A6%20PyTorch%20%E2%9C%A6%20Microservices%20%E2%9C%A6%20FAISS%20%20&fontSize=12&fontColor=b8ff35&fontAlignY=62&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=36&text=%20%20Node.js%20%E2%9C%A6%20FastAPI%20%E2%9C%A6%20React%20%E2%9C%A6%20Docker%20%E2%9C%A6%20LangChain%20%E2%9C%A6%20PostgreSQL%20%E2%9C%A6%20Redis%20%E2%9C%A6%20RabbitMQ%20%E2%9C%A6%20BullMQ%20%E2%9C%A6%20PyTorch%20%E2%9C%A6%20Microservices%20%E2%9C%A6%20FAISS%20%20&fontSize=12&fontColor=22D3EE&fontAlignY=62&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -44,7 +33,7 @@
 <!-- ░░░░░░░░░░  01 — SYSTEM PROFILE  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b8ff35,100:d4ff6b&height=56&text=%2001%20%E2%80%94%20SYSTEM%20PROFILE&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:7C3AED&height=56&text=%2001%20%E2%80%94%20SYSTEM%20PROFILE&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -100,7 +89,7 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  02 — TECH ARSENAL  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4d3d,100:ff7a6e&height=56&text=%2002%20%E2%80%94%20TECH%20ARSENAL&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:10B981&height=56&text=%2002%20%E2%80%94%20TECH%20ARSENAL&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -129,25 +118,25 @@ class AbhinavSunil:
 
 **🐍 Languages**
 
-![Go](https://img.shields.io/badge/Go-b8ff35?style=flat-square&logo=go&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-b8ff35?style=flat-square&logo=python&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-b8ff35?style=flat-square&logo=typescript&logoColor=111111)
-![JavaScript](https://img.shields.io/badge/JavaScript-d4ff6b?style=flat-square&logo=javascript&logoColor=111111)
-![Java](https://img.shields.io/badge/Java-d4ff6b?style=flat-square&logo=openjdk&logoColor=111111)
-![Kotlin](https://img.shields.io/badge/Kotlin-b8ff35?style=flat-square&logo=kotlin&logoColor=111111)
-![SQL](https://img.shields.io/badge/SQL-d4ff6b?style=flat-square&logo=postgresql&logoColor=111111)
+![Go](https://img.shields.io/badge/Go-22D3EE?style=flat-square&logo=go&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-22D3EE?style=flat-square&logo=python&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-22D3EE?style=flat-square&logo=typescript&logoColor=111111)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=111111)
+![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=111111)
+![Kotlin](https://img.shields.io/badge/Kotlin-22D3EE?style=flat-square&logo=kotlin&logoColor=111111)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=111111)
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Backend & APIs**
 
-![Node.js](https://img.shields.io/badge/Node.js-ff4d3d?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff4d3d?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-ff7a6e?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-ff7a6e?style=flat-square&logo=fastify&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-ff4d3d?style=flat-square&logo=socketdotio&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff7a6e?style=flat-square&logo=rabbitmq&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-10B981?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-10B981?style=flat-square&logo=fastify&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-7C3AED?style=flat-square&logo=socketdotio&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-10B981?style=flat-square&logo=rabbitmq&logoColor=white)
 
 </td>
 </tr>
@@ -156,25 +145,25 @@ class AbhinavSunil:
 
 **🤖 AI / ML / LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-ffe135?style=flat-square&logo=chainlink&logoColor=111111)
-![LangGraph](https://img.shields.io/badge/LangGraph-ffd000?style=flat-square&logo=graphql&logoColor=111111)
-![PyTorch](https://img.shields.io/badge/PyTorch-ffe135?style=flat-square&logo=pytorch&logoColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ffd000?style=flat-square&logo=tensorflow&logoColor=111111)
-![Groq](https://img.shields.io/badge/Groq-ffe135?style=flat-square&logo=lightning&logoColor=111111)
-![FAISS](https://img.shields.io/badge/FAISS-ffd000?style=flat-square&logo=meta&logoColor=111111)
-![Scikit](https://img.shields.io/badge/Scikit--learn-ffe135?style=flat-square&logo=scikitlearn&logoColor=111111)
+![LangChain](https://img.shields.io/badge/LangChain-22D3EE?style=flat-square&logo=chainlink&logoColor=111111)
+![LangGraph](https://img.shields.io/badge/LangGraph-10B981?style=flat-square&logo=graphql&logoColor=111111)
+![PyTorch](https://img.shields.io/badge/PyTorch-22D3EE?style=flat-square&logo=pytorch&logoColor=111111)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-10B981?style=flat-square&logo=tensorflow&logoColor=111111)
+![Groq](https://img.shields.io/badge/Groq-22D3EE?style=flat-square&logo=lightning&logoColor=111111)
+![FAISS](https://img.shields.io/badge/FAISS-10B981?style=flat-square&logo=meta&logoColor=111111)
+![Scikit](https://img.shields.io/badge/Scikit--learn-22D3EE?style=flat-square&logo=scikitlearn&logoColor=111111)
 
 </td>
 <td width="50%" valign="top">
 
 **🗄️ Databases & Infra**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00f5c4?style=flat-square&logo=postgresql&logoColor=111111)
-![Redis](https://img.shields.io/badge/Redis-00f5c4?style=flat-square&logo=redis&logoColor=111111)
-![MongoDB](https://img.shields.io/badge/MongoDB-80ffdf?style=flat-square&logo=mongodb&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-80ffdf?style=flat-square&logo=docker&logoColor=111111)
-![BullMQ](https://img.shields.io/badge/BullMQ-00f5c4?style=flat-square&logo=redis&logoColor=111111)
-![AstraDB](https://img.shields.io/badge/AstraDB-80ffdf?style=flat-square&logo=datastax&logoColor=111111)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=111111)
+![Redis](https://img.shields.io/badge/Redis-2563EB?style=flat-square&logo=redis&logoColor=111111)
+![MongoDB](https://img.shields.io/badge/MongoDB-22D3EE?style=flat-square&logo=mongodb&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=111111)
+![BullMQ](https://img.shields.io/badge/BullMQ-2563EB?style=flat-square&logo=redis&logoColor=111111)
+![AstraDB](https://img.shields.io/badge/AstraDB-22D3EE?style=flat-square&logo=datastax&logoColor=111111)
 
 </td>
 </tr>
@@ -183,19 +172,19 @@ class AbhinavSunil:
 
 **🎨 Frontend**
 
-![React](https://img.shields.io/badge/React.js-d4a5ff?style=flat-square&logo=react&logoColor=111111)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-d4a5ff?style=flat-square&logo=tailwindcss&logoColor=111111)
-![Vite](https://img.shields.io/badge/Vite-e8c5ff?style=flat-square&logo=vite&logoColor=111111)
+![React](https://img.shields.io/badge/React.js-7C3AED?style=flat-square&logo=react&logoColor=111111)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-7C3AED?style=flat-square&logo=tailwindcss&logoColor=111111)
+![Vite](https://img.shields.io/badge/Vite-22D3EE?style=flat-square&logo=vite&logoColor=111111)
 
 </td>
 <td width="50%" valign="top">
 
 **🔧 DevOps & Monitoring**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-ff9f43?style=flat-square&logo=prometheus&logoColor=111111)
-![Grafana](https://img.shields.io/badge/Grafana-ff9f43?style=flat-square&logo=grafana&logoColor=111111)
-![Linux](https://img.shields.io/badge/Linux-ffcc80?style=flat-square&logo=linux&logoColor=111111)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ffcc80?style=flat-square&logo=githubactions&logoColor=111111)
+![Prometheus](https://img.shields.io/badge/Prometheus-10B981?style=flat-square&logo=prometheus&logoColor=111111)
+![Grafana](https://img.shields.io/badge/Grafana-10B981?style=flat-square&logo=grafana&logoColor=111111)
+![Linux](https://img.shields.io/badge/Linux-22D3EE?style=flat-square&logo=linux&logoColor=111111)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-22D3EE?style=flat-square&logo=githubactions&logoColor=111111)
 
 </td>
 </tr>
@@ -208,7 +197,7 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  03 — FEATURED PROJECTS  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffe135,100:ffd000&height=56&text=%2003%20%E2%80%94%20FEATURED%20PROJECTS&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:10B981&height=56&text=%2003%20%E2%80%94%20FEATURED%20PROJECTS&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -216,31 +205,31 @@ class AbhinavSunil:
 <div align="center">
 
 <a href="https://github.com/IamAbhinav01/AeroMind-Distributed-Flight-Reservation-System">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%9B%AB%20AeroMind&fontSize=28&fontColor=b8ff35&fontAlignY=38&desc=Distributed%20Flight%20Reservation%20%7C%205%20Microservices&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%9B%AB%20AeroMind&fontSize=28&fontColor=22D3EE&fontAlignY=38&desc=Distributed%20Flight%20Reservation%20%7C%205%20Microservices&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
 </a>
 &nbsp;
 <a href="https://github.com/IamAbhinav01/coderX">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%A4%96%20coderX&fontSize=28&fontColor=ff4d3d&fontAlignY=38&desc=Autonomous+AI+Judge+%7C+6+Microservices+%7C+LLM&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%A4%96%20coderX&fontSize=28&fontColor=7C3AED&fontAlignY=38&desc=Autonomous+AI+Judge+%7C+6+Microservices+%7C+LLM&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/IamAbhinav01/RateLimiter">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%9A%A6%20Rate%20Limiter&fontSize=28&fontColor=00f5c4&fontAlignY=38&desc=Distributed+Token+Bucket+%7C+Redis+%2B+Lua&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%9A%A6%20Rate%20Limiter&fontSize=28&fontColor=2563EB&fontAlignY=38&desc=Distributed+Token+Bucket+%7C+Redis+%2B+Lua&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
 </a>
 &nbsp;
 <a href="https://github.com/IamAbhinav01/NimbusCodex">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%E2%98%81%EF%B8%8F%20NimbusCodex&fontSize=28&fontColor=ffe135&fontAlignY=38&desc=Ephemeral+Cloud+IDE+%7C+Docker+%2B+WebSockets&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%E2%98%81%EF%B8%8F%20NimbusCodex&fontSize=28&fontColor=22D3EE&fontAlignY=38&desc=Ephemeral+Cloud+IDE+%7C+Docker+%2B+WebSockets&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/IamAbhinav01/KITCHENELITEAI----cullinary-expertise">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%8D%B3%20KitchenELITE%20AI&fontSize=26&fontColor=ff9f43&fontAlignY=38&desc=RAG+Pipeline+%2B+FAISS+%2B+Custom+Recommendation+Model&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%8D%B3%20KitchenELITE%20AI&fontSize=26&fontColor=10B981&fontAlignY=38&desc=RAG+Pipeline+%2B+FAISS+%2B+Custom+Recommendation+Model&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
 </a>
 &nbsp;
 <a href="https://github.com/IamAbhinav01/Med_Vision">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%A5%BC%20MedVision%20AI&fontSize=28&fontColor=d4a5ff&fontAlignY=38&desc=EfficientNet+2-Stage+Clinical+Scan+Triage&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%A5%BC%20MedVision%20AI&fontSize=28&fontColor=7C3AED&fontAlignY=38&desc=EfficientNet+2-Stage+Clinical+Scan+Triage&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
 </a>
 
 </div>
@@ -269,29 +258,29 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  04 — NEURAL ACTIVITY METRICS  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5c4,100:80ffdf&height=56&text=%2004%20%E2%80%94%20NEURAL%20ACTIVITY%20METRICS&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=56&text=%2004%20%E2%80%94%20NEURAL%20ACTIVITY%20METRICS&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IamAbhinav01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=111111&title_color=b8ff35&icon_color=ff4d3d&text_color=fdfaf4&ring_color=b8ff35"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IamAbhinav01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=111111&title_color=22D3EE&icon_color=7C3AED&text_color=fdfaf4&ring_color=22D3EE"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IamAbhinav01&layout=compact&hide_border=true&bg_color=111111&title_color=b8ff35&text_color=fdfaf4"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IamAbhinav01&layout=compact&hide_border=true&bg_color=111111&title_color=22D3EE&text_color=fdfaf4"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=IamAbhinav01&hide_border=true&background=111111&stroke=b8ff35&ring=ff4d3d&fire=b8ff35&currStreakLabel=fdfaf4&sideLabels=888888&dates=666666&currStreakNum=ff4d3d&sideNums=fdfaf4"/>
+<img src="https://streak-stats.demolab.com/?user=IamAbhinav01&hide_border=true&background=111111&stroke=22D3EE&ring=7C3AED&fire=22D3EE&currStreakLabel=fdfaf4&sideLabels=888888&dates=666666&currStreakNum=7C3AED&sideNums=fdfaf4"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAbhinav01&bg_color=111111&color=fdfaf4&line=b8ff35&point=ff4d3d&area=true&area_color=1a2a00&hide_border=true&custom_title=⚡ Contribution Activity Map" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAbhinav01&bg_color=111111&color=fdfaf4&line=22D3EE&point=7C3AED&area=true&area_color=0f172a&hide_border=true&custom_title=⚡ Contribution Activity Map" width="100%"/>
 </div>
 
 <br/>
@@ -301,7 +290,7 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  05 — ACHIEVEMENT NODES  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d4a5ff,100:e8c5ff&height=56&text=%2005%20%E2%80%94%20ACHIEVEMENT%20NODES&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=56&text=%2005%20%E2%80%94%20ACHIEVEMENT%20NODES&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -312,17 +301,17 @@ class AbhinavSunil:
 
 <br/><br/>
 
-![](https://img.shields.io/badge/%F0%9F%8F%86_5th_Place_%E2%80%94_Code--A--Haunt_3.0_@_LPU-b8ff35?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/%F0%9F%8F%86_5th_Place_%E2%80%94_Code--A--Haunt_3.0_@_LPU-22D3EE?style=for-the-badge&labelColor=111111)
 &nbsp;
-![](https://img.shields.io/badge/%F0%9F%A7%A9_300%2B_LeetCode_Problems-ff4d3d?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/%F0%9F%A7%A9_300%2B_LeetCode_Problems-7C3AED?style=for-the-badge&labelColor=111111)
 
 <br/><br/>
 
-![](https://img.shields.io/badge/%E2%AD%90_5_Star_HackerRank_Python-ffe135?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/%E2%AD%90_5_Star_HackerRank_Python-22D3EE?style=for-the-badge&labelColor=111111)
 &nbsp;
-![](https://img.shields.io/badge/%F0%9F%94%97_Oracle_Gen_AI_Certified-00f5c4?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/%F0%9F%94%97_Oracle_Gen_AI_Certified-2563EB?style=for-the-badge&labelColor=111111)
 &nbsp;
-![](https://img.shields.io/badge/%F0%9F%8E%93_NPTEL_%E2%80%94_ML_%2B_C_Programming-d4a5ff?style=for-the-badge&labelColor=111111)
+![](https://img.shields.io/badge/%F0%9F%8E%93_NPTEL_%E2%80%94_ML_%2B_C_Programming-7C3AED?style=for-the-badge&labelColor=111111)
 
 </div>
 
@@ -344,7 +333,7 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  06 — EXPERIENCE & EDUCATION  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9f43,100:ffcc80&height=56&text=%2006%20%E2%80%94%20EXPERIENCE%20%26%20EDUCATION&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:22D3EE&height=56&text=%2006%20%E2%80%94%20EXPERIENCE%20%26%20EDUCATION&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -376,7 +365,7 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  07 — CONTRIBUTION SERPENTINE  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9f43,100:ffcc80&height=56&text=%2007%20%E2%80%94%20CONTRIBUTION%20SERPENTINE&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:22D3EE&height=56&text=%2007%20%E2%80%94%20CONTRIBUTION%20SERPENTINE&fontSize=22&fontColor=111111&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -392,7 +381,7 @@ class AbhinavSunil:
 <!-- ░░░░░░░░░░  08 — ESTABLISH CONNECTION  ░░░░░░░░░░ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=56&text=%2008%20%E2%80%94%20ESTABLISH%20CONNECTION&fontSize=22&fontColor=b8ff35&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2a2a2a&height=56&text=%2008%20%E2%80%94%20ESTABLISH%20CONNECTION&fontSize=22&fontColor=22D3EE&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -401,9 +390,9 @@ class AbhinavSunil:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Sunil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/abhinav-sunil-870184279/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-IamAbhinav01-b8ff35?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111)](https://github.com/IamAbhinav01)
+[![GitHub](https://img.shields.io/badge/GitHub-IamAbhinav01-22D3EE?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111)](https://github.com/IamAbhinav01)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-abhinavsunil%40hotmail.com-ff4d3d?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=111111)](mailto:abhinavsunil@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-abhinavsunil%40hotmail.com-7C3AED?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=111111)](mailto:abhinavsunil@hotmail.com)
 
 <br/><br/>
 
@@ -426,5 +415,5 @@ class AbhinavSunil:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,40:111111,75:b8ff35,100:d4ff6b&height=150&section=footer&text=Always%20Learning%20%E2%80%A2%20Always%20Building%20%E2%80%A2%20Always%20Shipping&fontSize=15&fontColor=111111&fontAlignY=68&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,40:111111,75:22D3EE,100:7C3AED&height=150&section=footer&text=Always%20Learning%20%E2%80%A2%20Always%20Building%20%E2%80%A2%20Always%20Shipping&fontSize=15&fontColor=111111&fontAlignY=68&animation=twinkling" width="100%"/>
 </div>
