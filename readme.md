@@ -203,53 +203,12 @@ class AbhinavSunil:
 <br/>
 
 <div align="center">
-
-<a href="https://github.com/IamAbhinav01/AeroMind-Distributed-Flight-Reservation-System">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%9B%AB%20AeroMind&fontSize=28&fontColor=22D3EE&fontAlignY=38&desc=Distributed%20Flight%20Reservation%20%7C%205%20Microservices&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
-</a>
-&nbsp;
-<a href="https://github.com/IamAbhinav01/coderX">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%A4%96%20coderX&fontSize=28&fontColor=7C3AED&fontAlignY=38&desc=Autonomous+AI+Judge+%7C+6+Microservices+%7C+LLM&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/IamAbhinav01/RateLimiter">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%9A%A6%20Rate%20Limiter&fontSize=28&fontColor=2563EB&fontAlignY=38&desc=Distributed+Token+Bucket+%7C+Redis+%2B+Lua&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
-</a>
-&nbsp;
-<a href="https://github.com/IamAbhinav01/NimbusCodex">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%E2%98%81%EF%B8%8F%20NimbusCodex&fontSize=28&fontColor=22D3EE&fontAlignY=38&desc=Ephemeral+Cloud+IDE+%7C+Docker+%2B+WebSockets&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/IamAbhinav01/KITCHENELITEAI----cullinary-expertise">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%8D%B3%20KitchenELITE%20AI&fontSize=26&fontColor=10B981&fontAlignY=38&desc=RAG+Pipeline+%2B+FAISS+%2B+Custom+Recommendation+Model&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
-</a>
-&nbsp;
-<a href="https://github.com/IamAbhinav01/Med_Vision">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=120&text=%F0%9F%A5%BC%20MedVision%20AI&fontSize=28&fontColor=7C3AED&fontAlignY=38&desc=EfficientNet+2-Stage+Clinical+Scan+Triage&descSize=14&descColor=fdfaf4&descAlignY=68&animation=fadeIn" width="49%"/>
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./projects_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./projects_light.svg">
+    <img alt="Featured Projects" src="./projects_dark.svg" width="100%">
+  </picture>
 </div>
-
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  abhinav@systems:~$ cat projects.log                                         │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  🛫  AeroMind      ►  5 svc · pessimistic locks · idempotency · RabbitMQ    │
-│  🤖  coderX        ►  6 svc · LLM judge · Dockerode sandbox · BullMQ        │
-│  🚦  RateLimiter   ►  token bucket · atomic Lua scripts · zero races         │
-│  ☁️   NimbusCodex   ►  pre-warmed pools · WebSocket exec · cgroup isolation  │
-│  🍳  KitchenELITE  ►  RAG · FAISS · 500K recipes · HF Spaces deploy         │
-│  🏥  MedVision AI  ►  EfficientNet-B4→B3 cascade · async FastAPI inference  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
