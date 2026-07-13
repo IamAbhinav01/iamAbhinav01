@@ -1,0 +1,87 @@
+<svg width="1180" height="420" viewBox="0 0 1180 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgBase" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </linearGradient>
+
+    <linearGradient id="traceGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g transform="translate(60, 20)">
+    
+    <!-- Timeline Trace -->
+    <path d="M 50 30 L 50 350" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+    <path d="M 50 30 L 50 350" fill="none" stroke="url(#traceGrad)" stroke-width="3" filter="url(#glow)">
+        <animate attributeName="stroke-dasharray" values="0, 1000; 320, 1000" dur="2s" fill="freeze"/>
+    </path>
+    
+    <!-- Ambient Data Packets traveling down the line -->
+    <circle cx="50" cy="30" r="2.5" fill="#FFFFFF" filter="url(#glow)">
+        <animate attributeName="cy" values="30; 350" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0; 1; 0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50" cy="30" r="2.5" fill="#FFFFFF" filter="url(#glow)">
+        <animate attributeName="cy" values="30; 350" dur="2.5s" begin="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0; 1; 0" dur="2.5s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Vodafone-Idea -->
+    <g transform="translate(50, 40)">
+      <circle cx="0" cy="20" r="8" fill="#0F172A" stroke="#7C3AED" stroke-width="3">
+        <animate attributeName="r" values="8;10;8" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <g transform="translate(40, 0)">
+        <rect width="900" height="90" rx="12" fill="#0F172A" opacity="0.8"/>
+        <rect width="900" height="90" rx="12" fill="none" stroke="rgba(255,255,255,.08)"/>
+        <text x="24" y="32" font-family="-apple-system, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">Vodafone-Idea VOIS × AICTE</text>
+        <text x="876" y="30" text-anchor="end" font-family="-apple-system, sans-serif" font-size="14" fill="#94A3B8">Oct 2023 – Nov 2023</text>
+        <text x="24" y="58" font-family="-apple-system, sans-serif" font-size="16" fill="#22D3EE">Data Analysis Intern</text>
+        <text x="24" y="78" font-family="-apple-system, sans-serif" font-size="14" fill="#94A3B8">► Scalable NLP + CV inference pipelines via REST APIs · Async serving optimization</text>
+      </g>
+    </g>
+
+    <!-- LPU -->
+    <g transform="translate(50, 160)">
+      <circle cx="0" cy="20" r="8" fill="#0F172A" stroke="#22D3EE" stroke-width="3">
+        <animate attributeName="r" values="8;10;8" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <g transform="translate(40, 0)">
+        <rect width="900" height="80" rx="12" fill="#0F172A" opacity="0.8"/>
+        <rect width="900" height="80" rx="12" fill="none" stroke="rgba(255,255,255,.08)"/>
+        <text x="24" y="32" font-family="-apple-system, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">Lovely Professional University</text>
+        <text x="876" y="30" text-anchor="end" font-family="-apple-system, sans-serif" font-size="14" fill="#94A3B8">Aug 2023 – Present</text>
+        <text x="24" y="58" font-family="-apple-system, sans-serif" font-size="16" fill="#22D3EE">B.Tech — Computer Science &amp; Engineering</text>
+        <text x="876" y="58" text-anchor="end" font-family="-apple-system, sans-serif" font-size="14" font-weight="700" fill="#10B981">CGPA: 8.00</text>
+      </g>
+    </g>
+    
+    <!-- Amrita -->
+    <g transform="translate(50, 270)">
+      <circle cx="0" cy="20" r="8" fill="#0F172A" stroke="#10B981" stroke-width="3">
+        <animate attributeName="r" values="8;10;8" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <g transform="translate(40, 0)">
+        <rect width="900" height="80" rx="12" fill="#0F172A" opacity="0.8"/>
+        <rect width="900" height="80" rx="12" fill="none" stroke="rgba(255,255,255,.08)"/>
+        <text x="24" y="32" font-family="-apple-system, sans-serif" font-size="20" font-weight="700" fill="#F8FAFC">Amrita Vidyalayam</text>
+        <text x="876" y="30" text-anchor="end" font-family="-apple-system, sans-serif" font-size="14" fill="#94A3B8">May 2022 – May 2023</text>
+        <text x="24" y="58" font-family="-apple-system, sans-serif" font-size="16" fill="#22D3EE">Intermediate (PCMB)</text>
+        <text x="876" y="58" text-anchor="end" font-family="-apple-system, sans-serif" font-size="14" font-weight="700" fill="#10B981">Score: 86.6%</text>
+      </g>
+    </g>
+
+  </g>
+</svg>

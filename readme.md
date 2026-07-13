@@ -221,25 +221,13 @@
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  EXPERIENCE                                                                  │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  💼  Vodafone-Idea VOIS × AICTE                         Oct 2023 – Nov 2023  │
-│      Data Analysis Intern (Remote)                                           │
-│      ► Built full-stack AI apps with Python, FastAPI, React                  │
-│      ► Designed scalable NLP + CV inference pipelines served via REST APIs   │
-│      ► Optimised model throughput via profiling, batching & async serving    │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  EDUCATION                                                                   │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  🎓  Lovely Professional University                      Aug 2023 – Present  │
-│      B.Tech — Computer Science & Engineering  |  CGPA: 8.00                  │
-│                                                                              │
-│  📚  Amrita Vidyalayam                                   May 2022 – May 2023 │
-│      Intermediate (PCMB)  |  86.6%                                           │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./edu_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./edu_light.svg">
+    <img alt="Experience and Education" src="./edu_dark.svg" width="100%">
+  </picture>
+</div>
 
 <br/>
 
