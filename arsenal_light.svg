@@ -45,171 +45,255 @@
         <animateTransform attributeName="transform" type="translate" from="0,50" to="-1995,50" dur="39.9s" repeatCount="indefinite"/>
         <g>
         <g transform="translate(0, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">GoLang</text>
         </g>
         <g transform="translate(126, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Python</text>
         </g>
         <g transform="translate(252, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">TypeScript</text>
         </g>
         <g transform="translate(422, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">JavaScript</text>
         </g>
         <g transform="translate(592, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Java</text>
         </g>
         <g transform="translate(696, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Kotlin</text>
         </g>
         <g transform="translate(822, 0)">
-          <rect width="73" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="73" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="36.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">SQL</text>
         </g>
         <g transform="translate(915, 0)">
-          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="64.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">React.js</text>
         </g>
         <g transform="translate(1063, 0)">
-          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="86.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Tailwind CSS</text>
         </g>
         <g transform="translate(1255, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Vite</text>
         </g>
         <g transform="translate(1359, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Prometheus</text>
         </g>
         <g transform="translate(1529, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Grafana</text>
         </g>
         <g transform="translate(1666, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Linux</text>
         </g>
         <g transform="translate(1781, 0)">
-          <rect width="194" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="194" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="97.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">GitHub Actions</text>
         </g></g><g transform='translate(1995, 0)'>
         <g transform="translate(0, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">GoLang</text>
         </g>
         <g transform="translate(126, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Python</text>
         </g>
         <g transform="translate(252, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">TypeScript</text>
         </g>
         <g transform="translate(422, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">JavaScript</text>
         </g>
         <g transform="translate(592, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Java</text>
         </g>
         <g transform="translate(696, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Kotlin</text>
         </g>
         <g transform="translate(822, 0)">
-          <rect width="73" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="73" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="36.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">SQL</text>
         </g>
         <g transform="translate(915, 0)">
-          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="64.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">React.js</text>
         </g>
         <g transform="translate(1063, 0)">
-          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="86.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Tailwind CSS</text>
         </g>
         <g transform="translate(1255, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Vite</text>
         </g>
         <g transform="translate(1359, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Prometheus</text>
         </g>
         <g transform="translate(1529, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Grafana</text>
         </g>
         <g transform="translate(1666, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Linux</text>
         </g>
         <g transform="translate(1781, 0)">
-          <rect width="194" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="194" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="97.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">GitHub Actions</text>
         </g></g><g transform='translate(3990, 0)'>
         <g transform="translate(0, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">GoLang</text>
         </g>
         <g transform="translate(126, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Python</text>
         </g>
         <g transform="translate(252, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">TypeScript</text>
         </g>
         <g transform="translate(422, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">JavaScript</text>
         </g>
         <g transform="translate(592, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Java</text>
         </g>
         <g transform="translate(696, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Kotlin</text>
         </g>
         <g transform="translate(822, 0)">
-          <rect width="73" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="73" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="36.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">SQL</text>
         </g>
         <g transform="translate(915, 0)">
-          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="64.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">React.js</text>
         </g>
         <g transform="translate(1063, 0)">
-          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="86.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Tailwind CSS</text>
         </g>
         <g transform="translate(1255, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Vite</text>
         </g>
         <g transform="translate(1359, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Prometheus</text>
         </g>
         <g transform="translate(1529, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Grafana</text>
         </g>
         <g transform="translate(1666, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Linux</text>
         </g>
         <g transform="translate(1781, 0)">
-          <rect width="194" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="194" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="97.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">GitHub Actions</text>
         </g></g>
       </g>
@@ -218,123 +302,183 @@
         <animateTransform attributeName="transform" type="translate" from="-1469,120" to="0,120" dur="29.38s" repeatCount="indefinite"/>
         <g>
         <g transform="translate(0, 0)">
-          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="69.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">LangChain</text>
         </g>
         <g transform="translate(159, 0)">
-          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="69.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">LangGraph</text>
         </g>
         <g transform="translate(318, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">PyTorch</text>
         </g>
         <g transform="translate(455, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">TensorFlow</text>
         </g>
         <g transform="translate(625, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Groq</text>
         </g>
         <g transform="translate(729, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">FAISS</text>
         </g>
         <g transform="translate(844, 0)">
-          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="86.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Scikit-learn</text>
         </g>
         <g transform="translate(1036, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">OpenAI</text>
         </g>
         <g transform="translate(1162, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Ollama</text>
         </g>
         <g transform="translate(1288, 0)">
-          <rect width="161" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="161" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="80.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">HuggingFace</text>
         </g></g><g transform='translate(1469, 0)'>
         <g transform="translate(0, 0)">
-          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="69.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">LangChain</text>
         </g>
         <g transform="translate(159, 0)">
-          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="69.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">LangGraph</text>
         </g>
         <g transform="translate(318, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">PyTorch</text>
         </g>
         <g transform="translate(455, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">TensorFlow</text>
         </g>
         <g transform="translate(625, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Groq</text>
         </g>
         <g transform="translate(729, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">FAISS</text>
         </g>
         <g transform="translate(844, 0)">
-          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="86.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Scikit-learn</text>
         </g>
         <g transform="translate(1036, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">OpenAI</text>
         </g>
         <g transform="translate(1162, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Ollama</text>
         </g>
         <g transform="translate(1288, 0)">
-          <rect width="161" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="161" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="80.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">HuggingFace</text>
         </g></g><g transform='translate(2938, 0)'>
         <g transform="translate(0, 0)">
-          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="69.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">LangChain</text>
         </g>
         <g transform="translate(159, 0)">
-          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="139" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="69.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">LangGraph</text>
         </g>
         <g transform="translate(318, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">PyTorch</text>
         </g>
         <g transform="translate(455, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">TensorFlow</text>
         </g>
         <g transform="translate(625, 0)">
-          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="84" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="42.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Groq</text>
         </g>
         <g transform="translate(729, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">FAISS</text>
         </g>
         <g transform="translate(844, 0)">
-          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="172" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="86.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Scikit-learn</text>
         </g>
         <g transform="translate(1036, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">OpenAI</text>
         </g>
         <g transform="translate(1162, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Ollama</text>
         </g>
         <g transform="translate(1288, 0)">
-          <rect width="161" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="161" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="80.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">HuggingFace</text>
         </g></g>
       </g>
@@ -343,147 +487,219 @@
         <animateTransform attributeName="transform" type="translate" from="0,190" to="-1710,190" dur="34.2s" repeatCount="indefinite"/>
         <g>
         <g transform="translate(0, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Node.js</text>
         </g>
         <g transform="translate(137, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">FastAPI</text>
         </g>
         <g transform="translate(274, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Express.js</text>
         </g>
         <g transform="translate(444, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Fastify</text>
         </g>
         <g transform="translate(581, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">WebSockets</text>
         </g>
         <g transform="translate(751, 0)">
-          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="64.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">RabbitMQ</text>
         </g>
         <g transform="translate(899, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">PostgreSQL</text>
         </g>
         <g transform="translate(1069, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Redis</text>
         </g>
         <g transform="translate(1184, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">MongoDB</text>
         </g>
         <g transform="translate(1321, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Docker</text>
         </g>
         <g transform="translate(1447, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">BullMQ</text>
         </g>
         <g transform="translate(1573, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">AstraDB</text>
         </g></g><g transform='translate(1710, 0)'>
         <g transform="translate(0, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Node.js</text>
         </g>
         <g transform="translate(137, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">FastAPI</text>
         </g>
         <g transform="translate(274, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Express.js</text>
         </g>
         <g transform="translate(444, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Fastify</text>
         </g>
         <g transform="translate(581, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">WebSockets</text>
         </g>
         <g transform="translate(751, 0)">
-          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="64.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">RabbitMQ</text>
         </g>
         <g transform="translate(899, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">PostgreSQL</text>
         </g>
         <g transform="translate(1069, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Redis</text>
         </g>
         <g transform="translate(1184, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">MongoDB</text>
         </g>
         <g transform="translate(1321, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Docker</text>
         </g>
         <g transform="translate(1447, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">BullMQ</text>
         </g>
         <g transform="translate(1573, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">AstraDB</text>
         </g></g><g transform='translate(3420, 0)'>
         <g transform="translate(0, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Node.js</text>
         </g>
         <g transform="translate(137, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">FastAPI</text>
         </g>
         <g transform="translate(274, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Express.js</text>
         </g>
         <g transform="translate(444, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Fastify</text>
         </g>
         <g transform="translate(581, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">WebSockets</text>
         </g>
         <g transform="translate(751, 0)">
-          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="128" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="64.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">RabbitMQ</text>
         </g>
         <g transform="translate(899, 0)">
-          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="150" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="75.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">PostgreSQL</text>
         </g>
         <g transform="translate(1069, 0)">
-          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="95" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="47.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Redis</text>
         </g>
         <g transform="translate(1184, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">MongoDB</text>
         </g>
         <g transform="translate(1321, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">Docker</text>
         </g>
         <g transform="translate(1447, 0)">
-          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="106" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="53.0" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">BullMQ</text>
         </g>
         <g transform="translate(1573, 0)">
-          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="117" height="44" rx="22" fill="#FFFFFF" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="58.5" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="#0F172A">AstraDB</text>
         </g></g>
       </g>
@@ -505,4 +721,52 @@
         <stop offset="100%" stop-color="#F8FAFC" stop-opacity="1"/>
     </linearGradient>
   </defs>
+
+  <!-- Ambient Glows -->
+  <circle cx="100" cy="50" r="150" fill="url(#pillGrad)" opacity="0.15" filter="url(#pillGlow)">
+    <animate attributeName="cx" values="100;400;100" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;150;50" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="250" r="180" fill="url(#pillGrad)" opacity="0.15" filter="url(#pillGlow)">
+    <animate attributeName="cx" values="900;600;900" dur="25s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;100;250" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="50" cy="30" r="3.0" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="30;0;30" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle><circle cx="150" cy="80" r="3.0" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="80;50;80" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4s" repeatCount="indefinite"/>
+    </circle><circle cx="250" cy="130" r="1.5" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="130;100;130" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle><circle cx="350" cy="180" r="3.0" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="180;150;180" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle><circle cx="450" cy="230" r="3.0" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="230;200;230" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle><circle cx="550" cy="280" r="1.5" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="280;250;280" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4s" repeatCount="indefinite"/>
+    </circle><circle cx="650" cy="40" r="1.5" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="40;10;40" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle><circle cx="750" cy="90" r="3.0" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="90;60;90" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="6s" repeatCount="indefinite"/>
+    </circle><circle cx="850" cy="140" r="1.5" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="140;110;140" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="5s" repeatCount="indefinite"/>
+    </circle><circle cx="950" cy="190" r="1.5" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="190;160;190" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="6s" repeatCount="indefinite"/>
+    </circle><circle cx="1050" cy="240" r="2.2" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="240;210;240" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4s" repeatCount="indefinite"/>
+    </circle><circle cx="1150" cy="290" r="1.5" fill="#06B6D4" opacity="0.35">
+      <animate attributeName="cy" values="290;260;290" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle>
 </svg>

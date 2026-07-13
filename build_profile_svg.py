@@ -117,10 +117,11 @@ def get_colored_code(lines, vars_dict):
                         p_esc = p_esc.replace(kw, f'</tspan><tspan fill="{vars_dict["code_kw"]}">{kw}</tspan><tspan fill="{vars_dict["text_primary"]}">')
                     tspan_str += f'<tspan fill="{vars_dict["text_primary"]}">{p_esc}</tspan>'
 
-        # Fix spacing (SVG handles leading spaces poorly in tspan if not xml:space="preserve")
-        # We use standard text element and absolute dy or we can use xml:space
-        # Actually using xml:space="preserve" on the text element is easier
-        out.append(f'<text x="0" y="{y}" font-family="\'SFMono-Regular\', Consolas, monospace" font-size="14.5" xml:space="preserve">{tspan_str}</text>')
+        # Fix spacing
+        out.append(f'<text x="0" y="{y}" font-family="\'SFMono-Regular\', Consolas, monospace" font-size="14.5" opacity="0" xml:space="preserve">')
+        out.append(f'  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="{0.5 + y/120:.2f}s" fill="freeze"/>')
+        out.append(f'  {tspan_str}')
+        out.append(f'</text>')
         y += 22
     return "\n".join(out)
 

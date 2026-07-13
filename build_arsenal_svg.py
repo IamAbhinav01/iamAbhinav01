@@ -58,11 +58,25 @@ template = """<svg width="1180" height="340" viewBox="0 0 1180 340" xmlns="http:
         <stop offset="100%" stop-color="{panel_fill}" stop-opacity="1"/>
     </linearGradient>
   </defs>
+
+  <!-- Ambient Glows -->
+  <circle cx="100" cy="50" r="150" fill="url(#pillGrad)" opacity="0.15" filter="url(#pillGlow)">
+    <animate attributeName="cx" values="100;400;100" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;150;50" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="250" r="180" fill="url(#pillGrad)" opacity="0.15" filter="url(#pillGlow)">
+    <animate attributeName="cx" values="900;600;900" dur="25s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;100;250" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  
+  {particles}
 </svg>"""
 
 pill_template = """
         <g transform="translate({x}, 0)">
-          <rect width="{w}" height="44" rx="22" fill="{pill_bg}" stroke="url(#pillGrad)" stroke-width="1" stroke-opacity="0.5" filter="url(#pillGlow)"/>
+          <rect width="{w}" height="44" rx="22" fill="{pill_bg}" stroke="url(#pillGrad)" stroke-width="1.2" stroke-opacity="0.5" filter="url(#pillGlow)">
+            <animate attributeName="stroke-opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+          </rect>
           <text x="{mid}" y="28" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" font-weight="600" fill="{text_primary}">{name}</text>
         </g>"""
 
@@ -101,13 +115,29 @@ def generate_track(items, y_pos, direction_left=True, vars_dict=None):
       </g>
     """
 
+def gen_particles(color):
+    ps = []
+    points = [(50,30), (150,80), (250,130), (350,180), (450,230), (550,280), (650,40), (750,90), (850,140), (950,190), (1050,240), (1150,290)]
+    import random
+    random.seed(42)
+    for i, (cx, cy) in enumerate(points):
+        r = random.choice([1.5, 2.2, 3.0])
+        dur_y = random.randint(5, 9)
+        dur_op = random.randint(3, 6)
+        ps.append(f'''<circle cx="{cx}" cy="{cy}" r="{r}" fill="{color}" opacity="0.35">
+      <animate attributeName="cy" values="{cy};{cy-30};{cy}" dur="{dur_y}s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="{dur_op}s" repeatCount="indefinite"/>
+    </circle>''')
+    return "".join(ps)
+
 def generate_arsenal(vars_dict):
     tracks = ""
     tracks += generate_track(row_1, 50, direction_left=True, vars_dict=vars_dict)
     tracks += generate_track(row_2, 120, direction_left=False, vars_dict=vars_dict)
     tracks += generate_track(row_3, 190, direction_left=True, vars_dict=vars_dict)
     
-    return template.format(tracks=tracks, **vars_dict)
+    parts = gen_particles(vars_dict["accent_2"])
+    return template.format(tracks=tracks, particles=parts, **vars_dict)
 
 
 dark_vars = {
