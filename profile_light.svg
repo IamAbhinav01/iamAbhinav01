@@ -1,0 +1,76 @@
+<svg width="1180" height="740" viewBox="0 0 1180 740" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.1"/>
+      <stop offset="45%" stop-color="#06B6D4" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.8"/>
+      <stop offset="55%" stop-color="#10B981" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.1"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                          values="-1180 0; 1180 0; -1180 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- VS Code Window -->
+  <g transform="translate(60, 30)">
+    <rect width="1060" height="680" rx="16" fill="#F8FAFC" opacity="0.9"/>
+    <rect width="1060" height="680" rx="16" fill="none" stroke="rgba(15,23,42,.08)" stroke-width="1.5"/>
+    <rect width="1060" height="680" rx="16" fill="none" stroke="url(#borderShimmer)" stroke-width="1.5"/>
+    
+    <!-- Titlebar -->
+    <rect width="1060" height="40" rx="16" fill="#FFFFFF" opacity="0.6"/>
+    <rect y="24" width="1060" height="16" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
+    <circle cx="44" cy="20" r="6" fill="#FFBD2E"/>
+    <circle cx="64" cy="20" r="6" fill="#27C93F"/>
+    <text x="530" y="25" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="13" fill="#475569">profile.py — IamAbhinav01</text>
+    <line x1="0" y1="40" x2="1060" y2="40" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
+
+    <!-- Code Content -->
+    <g transform="translate(30, 80)">
+<text x="0" y="0" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#4F46E5">class</tspan><tspan fill="#06B6D4"> AbhinavSunil:</tspan></text>
+<text x="0" y="22" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#059669">    &quot;&quot;&quot;Full-Stack Engineer · AI Builder · Systems Architect · LPU B.Tech CSE 🇮🇳&quot;&quot;&quot;</tspan></text>
+<text x="0" y="66" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">    </tspan><tspan fill="#4F46E5">identity</tspan><tspan fill="#0F172A"> = {</tspan></text>
+<text x="0" y="88" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"role"</tspan><tspan fill="#0F172A">       : </tspan><tspan fill="#059669">"Full-Stack Engineer &amp; AI Builder"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="110" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"focus"</tspan><tspan fill="#0F172A">      : </tspan><tspan fill="#059669">"Distributed Systems · LLM Pipelines · Cloud Infrastructure"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="132" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"shipping"</tspan><tspan fill="#0F172A">   : [</tspan></text>
+<text x="0" y="154" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"AeroMind       →  5-svc distributed flight booking platform"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="176" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"coderX         →  6-svc autonomous AI competitive programming judge"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="198" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"KitchenELITE   →  RAG culinary AI + custom recommendation model"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="220" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"MedVision AI   →  Two-stage clinical scan triage engine"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="242" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"NimbusCodex    →  Ephemeral cloud IDE + Docker orchestration"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="264" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"RateLimiter    →  Distributed token-bucket on Redis + Lua"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="286" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        ],</tspan></text>
+<text x="0" y="308" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"experience"</tspan><tspan fill="#0F172A"> : </tspan><tspan fill="#059669">"Vodafone-Idea VOIS × AICTE — Data Analysis Intern"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="330" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"certified"</tspan><tspan fill="#0F172A">  : [</tspan></text>
+<text x="0" y="352" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"Oracle Cloud Infrastructure 2025 — Gen AI Professional  ✅"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="374" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"Introduction to Machine Learning — NPTEL               ✅"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="396" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"Introduction to Generative AI — Google                 ✅"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="418" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"Introduction to C Programming — NPTEL                  ✅"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="440" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        ],</tspan></text>
+<text x="0" y="462" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"achievements"</tspan><tspan fill="#0F172A">: [</tspan></text>
+<text x="0" y="484" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"🏆 5th Place @ Code-A-Haunt 3.0 Hackathon, LPU (100+ teams)"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="506" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"🧩 300+ LeetCode problems solved"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="528" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">            </tspan><tspan fill="#059669">"⭐ 5-Star HackerRank Python Rating"</tspan><tspan fill="#0F172A">,</tspan></text>
+<text x="0" y="550" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        ],</tspan></text>
+<text x="0" y="572" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">    }</tspan></text>
+<text x="0" y="616" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">    </tspan><tspan fill="#4F46E5">stack</tspan><tspan fill="#0F172A"> = {</tspan></text>
+<text x="0" y="638" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"languages"</tspan><tspan fill="#0F172A">  : [</tspan><tspan fill="#059669">"CPP"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Python"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"JavaScript"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"SQL"</tspan><tspan fill="#0F172A">],</tspan></text>
+<text x="0" y="660" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"backend"</tspan><tspan fill="#0F172A">    : [</tspan><tspan fill="#059669">"GoLang"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Node.js"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Express.js"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"FastAPI"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Fastify"</tspan><tspan fill="#0F172A">],</tspan></text>
+<text x="0" y="682" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"ai_ml"</tspan><tspan fill="#0F172A">      : [</tspan><tspan fill="#059669">"LangChain"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"LangGraph"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"PyTorch"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Groq"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"HuggingFace"</tspan><tspan fill="#0F172A">],</tspan></text>
+<text x="0" y="704" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"frontend"</tspan><tspan fill="#0F172A">   : [</tspan><tspan fill="#059669">"React.js"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Tailwind CSS"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Vite"</tspan><tspan fill="#0F172A">],</tspan></text>
+<text x="0" y="726" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"databases"</tspan><tspan fill="#0F172A">  : [</tspan><tspan fill="#059669">"MongoDB"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Redis"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"MySQL"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"AstraDB"</tspan><tspan fill="#0F172A">],</tspan></text>
+<text x="0" y="748" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#059669">"infra"</tspan><tspan fill="#0F172A">      : [</tspan><tspan fill="#059669">"Docker"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"RabbitMQ"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"BullMQ"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Prometheus"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Grafana"</tspan><tspan fill="#0F172A">, </tspan><tspan fill="#059669">"Linux"</tspan><tspan fill="#0F172A">],</tspan></text>
+<text x="0" y="770" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">    }</tspan></text>
+<text x="0" y="814" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#4F46E5"></tspan><tspan fill="#06B6D4">    def mantra(self) -&gt; str:</tspan></text>
+<text x="0" y="836" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" xml:space="preserve"><tspan fill="#0F172A">        </tspan><tspan fill="#4F46E5">return </tspan><tspan fill="#0F172A"></tspan><tspan fill="#059669">"Ship fast. Build to scale. Let the systems do the talking. 🚀"</tspan><tspan fill="#0F172A"></tspan></text>
+    </g>
+  </g>
+</svg>

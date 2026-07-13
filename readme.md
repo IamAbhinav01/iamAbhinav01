@@ -38,49 +38,13 @@
 
 <br/>
 
-```python
-class AbhinavSunil:
-    """Full-Stack Engineer · AI Builder · Systems Architect · LPU B.Tech CSE 🇮🇳"""
-
-    identity = {
-        "role"       : "Full-Stack Engineer & AI Builder",
-        "focus"      : "Distributed Systems · LLM Pipelines · Cloud Infrastructure",
-        "shipping"   : [
-            "AeroMind       →  5-svc distributed flight booking platform",
-            "coderX         →  6-svc autonomous AI competitive programming judge",
-            "KitchenELITE   →  RAG culinary AI + custom recommendation model",
-            "MedVision AI   →  Two-stage clinical scan triage engine",
-            "NimbusCodex    →  Ephemeral cloud IDE + Docker orchestration",
-            "RateLimiter    →  Distributed token-bucket on Redis + Lua",
-        ],
-        "experience" : "Vodafone-Idea VOIS × AICTE — Data Analysis Intern",
-        "certified"  : [
-            "Oracle Cloud Infrastructure 2025 — Gen AI Professional  ✅",
-            "Introduction to Machine Learning — NPTEL               ✅",
-            "Introduction to Generative AI — Google                 ✅",
-            "Introduction to C Programming — NPTEL                  ✅",
-        ],
-        "achievements": [
-            "🏆 5th Place @ Code-A-Haunt 3.0 Hackathon, LPU (100+ teams)",
-            "🧩 300+ LeetCode problems solved",
-            "⭐ 5-Star HackerRank Python Rating",
-        ],
-    }
-
-    stack = {
-        "languages"  : [ "CPP", "Python" , "JavaScript","SQL"],
-        "backend"    : ["GoLang", "Node.js", "Express.js", "FastAPI", "Fastify"],
-        "ai_ml"      : ["LangChain", "LangGraph", "PyTorch", "Groq", 
-                        "HuggingFace"],
-        "frontend"   : ["React.js", "Tailwind CSS", "Vite"],
-        "databases"  : ["MongoDB", "Redis", "MySQL", "AstraDB"],
-        "infra"      : ["Docker", "RabbitMQ", "BullMQ", "Prometheus", "Grafana",
-                         "Linux"],
-    }
-
-    def mantra(self) -> str:
-        return "Ship fast. Build to scale. Let the systems do the talking. 🚀"
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile_light.svg">
+    <img alt="System Profile" src="./profile_dark.svg" width="100%">
+  </picture>
+</div>
 
 <br/>
 
@@ -95,100 +59,12 @@ class AbhinavSunil:
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./arsenal_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./arsenal_light.svg">
+    <img alt="Tech Arsenal" src="./arsenal_dark.svg" width="100%">
+  </picture>
 </div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🐍 Languages**
-
-![Go](https://img.shields.io/badge/Go-22D3EE?style=flat-square&logo=go&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-22D3EE?style=flat-square&logo=python&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-22D3EE?style=flat-square&logo=typescript&logoColor=111111)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=111111)
-![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=111111)
-![Kotlin](https://img.shields.io/badge/Kotlin-22D3EE?style=flat-square&logo=kotlin&logoColor=111111)
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=111111)
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-10B981?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-10B981?style=flat-square&logo=fastify&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-7C3AED?style=flat-square&logo=socketdotio&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-10B981?style=flat-square&logo=rabbitmq&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI / ML / LLM**
-
-![LangChain](https://img.shields.io/badge/LangChain-22D3EE?style=flat-square&logo=chainlink&logoColor=111111)
-![LangGraph](https://img.shields.io/badge/LangGraph-10B981?style=flat-square&logo=graphql&logoColor=111111)
-![PyTorch](https://img.shields.io/badge/PyTorch-22D3EE?style=flat-square&logo=pytorch&logoColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-10B981?style=flat-square&logo=tensorflow&logoColor=111111)
-![Groq](https://img.shields.io/badge/Groq-22D3EE?style=flat-square&logo=lightning&logoColor=111111)
-![FAISS](https://img.shields.io/badge/FAISS-10B981?style=flat-square&logo=meta&logoColor=111111)
-![Scikit](https://img.shields.io/badge/Scikit--learn-22D3EE?style=flat-square&logo=scikitlearn&logoColor=111111)
-
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Databases & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=111111)
-![Redis](https://img.shields.io/badge/Redis-2563EB?style=flat-square&logo=redis&logoColor=111111)
-![MongoDB](https://img.shields.io/badge/MongoDB-22D3EE?style=flat-square&logo=mongodb&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=111111)
-![BullMQ](https://img.shields.io/badge/BullMQ-2563EB?style=flat-square&logo=redis&logoColor=111111)
-![AstraDB](https://img.shields.io/badge/AstraDB-22D3EE?style=flat-square&logo=datastax&logoColor=111111)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React.js-7C3AED?style=flat-square&logo=react&logoColor=111111)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-7C3AED?style=flat-square&logo=tailwindcss&logoColor=111111)
-![Vite](https://img.shields.io/badge/Vite-22D3EE?style=flat-square&logo=vite&logoColor=111111)
-
-</td>
-<td width="50%" valign="top">
-
-**🔧 DevOps & Monitoring**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-10B981?style=flat-square&logo=prometheus&logoColor=111111)
-![Grafana](https://img.shields.io/badge/Grafana-10B981?style=flat-square&logo=grafana&logoColor=111111)
-![Linux](https://img.shields.io/badge/Linux-22D3EE?style=flat-square&logo=linux&logoColor=111111)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-22D3EE?style=flat-square&logo=githubactions&logoColor=111111)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
