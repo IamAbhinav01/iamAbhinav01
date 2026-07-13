@@ -203,11 +203,59 @@ class AbhinavSunil:
 <br/>
 
 <div align="center">
+
+<a href="https://github.com/IamAbhinav01/AeroMind-Distributed-Flight-Reservation-System">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./projects_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./projects_light.svg">
-    <img alt="Featured Projects" src="./projects_dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./project_0_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./project_0_light.svg">
+    <img alt="AeroMind" src="./project_0_dark.svg" width="49%">
   </picture>
+</a>
+&nbsp;
+<a href="https://github.com/IamAbhinav01/coderX">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./project_1_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./project_1_light.svg">
+    <img alt="coderX" src="./project_1_dark.svg" width="49%">
+  </picture>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/IamAbhinav01/RateLimiter">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./project_2_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./project_2_light.svg">
+    <img alt="Rate Limiter" src="./project_2_dark.svg" width="49%">
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/IamAbhinav01/NimbusCodex">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./project_3_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./project_3_light.svg">
+    <img alt="NimbusCodex" src="./project_3_dark.svg" width="49%">
+  </picture>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/IamAbhinav01/KITCHENELITEAI----cullinary-expertise">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./project_4_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./project_4_light.svg">
+    <img alt="KitchenELITE AI" src="./project_4_dark.svg" width="49%">
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/IamAbhinav01/Med_Vision">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./project_5_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./project_5_light.svg">
+    <img alt="MedVision AI" src="./project_5_dark.svg" width="49%">
+  </picture>
+</a>
+
 </div>
 
 <br/>
